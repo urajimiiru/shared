@@ -1,0 +1,22 @@
+{
+  "name": "shared",
+  "version": "1.0.0",
+  "description": "mp shared code",
+  "main": "none",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/urajimiiru/shared.git"
+  },
+  "keywords": [
+    "shared"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/urajimiiru/shared/issues"
+  },
+  "homepage": "https://github.com/urajimiiru/shared#readme"
+}
